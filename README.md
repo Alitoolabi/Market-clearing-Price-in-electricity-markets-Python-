@@ -4,3 +4,6 @@ First, the primal problem is formulated then the primal problem is modeled
 Second, the dual problem is formulated and modeled  
 Finally, it can be checked that the primal problem is linear so its dual results are equal to primal results. 
 f
+
+
+gg
